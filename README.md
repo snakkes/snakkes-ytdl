@@ -4,7 +4,7 @@ Snakkes-ytdl is a feature-rich Python terminal application for downloading YouTu
 
 ## Screenshots
 
-![Screenshot 1](https://prnt.sc/GEf_BD4aom1y)
+![Screenshot](https://prnt.sc/GEf_BD4aom1y)
 
 ## Features
 
