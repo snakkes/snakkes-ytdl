@@ -2,9 +2,9 @@
 
 Snakkes-ytdl is a feature-rich Python terminal application for downloading YouTube videos and audio with various quality options. It provides a user-friendly interface with dynamic progress bars and customizable download settings.
 
-## Screenshots
+## Screenshot
 
-![Screenshot](https://prnt.sc/GEf_BD4aom1y)
+https://prnt.sc/GEf_BD4aom1y
 
 ## Features
 
